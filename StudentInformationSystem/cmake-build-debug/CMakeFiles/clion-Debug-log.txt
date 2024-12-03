@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\School\IT_Programming_Second_Year\IT_Programming_First_Semester\PROG2100_C++\final-project-RadicallyCoded\StudentInformationSystem -B E:\School\IT_Programming_Second_Year\IT_Programming_First_Semester\PROG2100_C++\final-project-RadicallyCoded\StudentInformationSystem\cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/School/IT_Programming_Second_Year/IT_Programming_First_Semester/PROG2100_C++/final-project-RadicallyCoded/StudentInformationSystem/cmake-build-debug

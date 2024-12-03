@@ -1,0 +1,3 @@
+E:/School/IT_Programming_Second_Year/IT_Programming_First_Semester/PROG2100_C++/final-project-RadicallyCoded/StudentInformationSystem/cmake-build-debug/CMakeFiles/StudentInformationSystem.dir
+E:/School/IT_Programming_Second_Year/IT_Programming_First_Semester/PROG2100_C++/final-project-RadicallyCoded/StudentInformationSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/School/IT_Programming_Second_Year/IT_Programming_First_Semester/PROG2100_C++/final-project-RadicallyCoded/StudentInformationSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

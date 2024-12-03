@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "StudentInformationSystem",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "StudentInformationSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StudentInformationSystem-Debug-58a2037e62a44a4a3c3a.json",
+					"name" : "StudentInformationSystem",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/School/IT_Programming_Second_Year/IT_Programming_First_Semester/PROG2100_C++/final-project-RadicallyCoded/StudentInformationSystem/cmake-build-debug",
+		"source" : "E:/School/IT_Programming_Second_Year/IT_Programming_First_Semester/PROG2100_C++/final-project-RadicallyCoded/StudentInformationSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
